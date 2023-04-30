@@ -14,9 +14,6 @@ using namespace std;
 
 int main ()
 {
-	int Edad;
-	float Peso;
-	char Sex;
 	string Nom;
 	
 	cout << "Ingrese su nombre: ";
