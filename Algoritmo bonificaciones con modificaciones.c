@@ -5,7 +5,7 @@
 	Date: 					11/05/22 10:21
 	Description: 			programa que calcula la bonificación recibida por un vendedor
 */
-
+ 
 # include <stdio.h>
 # include <stdlib.h>
 # include <locale.h>
