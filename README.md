@@ -1,3 +1,3 @@
-![](https://i.pinimg.com/564x/e8/c5/0a/e8c50a617349ee2ab4f0236d3a8462a7.jpg "by Oxford Academic (OUP) on Pinterest")
+![image](https://github.com/maria-arcila82221/Dev-Cpp/assets/102838284/729774f9-fef9-488b-b10d-b68f72421667)
 
 # C & C++
